@@ -24,7 +24,7 @@ The objective of this project was to gain hands-on experience with security moni
 
 ### Architecture Diagram
 
-![Lab Architecture](architecture/lab-architecture.png)
+![Lab Architecture](00-Architecture/Lab-architecture.png)
 
 ---
 
