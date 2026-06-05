@@ -126,15 +126,15 @@ Results:
 
 ```text
 wazuh-home-lab/
-├── architecture/
-├── installation/
-├── agents/
-├── monitoring/
-├── attack-simulations/
-├── incident-reports/
-├── configurations/
+├── 00-architecture/
+├── 01-installation/
+├── 02-agents/
+├── 03-monitoring/
+├── 04-configurations/
+├── 05-attack-simulations/
+├── 06-incident-response
 ├── screenshots/
-└── final-report/
+└── Professional-summary
 ```
 
 ---
